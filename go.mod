@@ -7,7 +7,7 @@ require (
 	github.com/cloudflare/backoff v0.0.0-20161212185259-647f3cdfc87a
 	github.com/cloudflare/redoctober v0.0.0-20211013234631-6a74ccc611f6
 	github.com/go-sql-driver/mysql v1.9.3
-	github.com/google/certificate-transparency-go v1.1.8
+	github.com/google/certificate-transparency-go v1.3.2
 	github.com/jmhodges/clock v1.2.0
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/kisielk/sqlstruct v0.0.0-20201105191214-5f3e10d3ab46
@@ -24,7 +24,6 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/getsentry/sentry-go v0.11.0 // indirect
-	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/kylelemons/go-gypsy v1.0.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/pelletier/go-toml v1.9.3 // indirect
@@ -38,5 +37,4 @@ require (
 	golang.org/x/sys v0.38.0 // indirect
 	golang.org/x/text v0.31.0 // indirect
 	google.golang.org/protobuf v1.36.8 // indirect
-	k8s.io/klog/v2 v2.120.1 // indirect
 )
