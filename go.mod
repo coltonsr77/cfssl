@@ -7,7 +7,7 @@ require (
 	github.com/cloudflare/backoff v0.0.0-20161212185259-647f3cdfc87a
 	github.com/cloudflare/redoctober v0.0.0-20211013234631-6a74ccc611f6
 	github.com/go-sql-driver/mysql v1.9.3
-	github.com/google/certificate-transparency-go v1.3.2
+	github.com/google/certificate-transparency-go v1.3.3
 	github.com/jmhodges/clock v1.2.0
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/kisielk/sqlstruct v0.0.0-20201105191214-5f3e10d3ab46
@@ -36,5 +36,5 @@ require (
 	golang.org/x/net v0.49.0 // indirect
 	golang.org/x/sys v0.41.0 // indirect
 	golang.org/x/text v0.34.0 // indirect
-	google.golang.org/protobuf v1.36.8 // indirect
+	google.golang.org/protobuf v1.36.11 // indirect
 )
