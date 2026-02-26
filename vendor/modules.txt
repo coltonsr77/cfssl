@@ -40,8 +40,8 @@ github.com/getsentry/sentry-go/internal/ratelimit
 # github.com/go-sql-driver/mysql v1.9.3
 ## explicit; go 1.21.0
 github.com/go-sql-driver/mysql
-# github.com/google/certificate-transparency-go v1.3.2
-## explicit; go 1.23.0
+# github.com/google/certificate-transparency-go v1.3.3
+## explicit; go 1.24.0
 github.com/google/certificate-transparency-go
 github.com/google/certificate-transparency-go/asn1
 github.com/google/certificate-transparency-go/client
@@ -171,7 +171,7 @@ golang.org/x/text/secure/bidirule
 golang.org/x/text/transform
 golang.org/x/text/unicode/bidi
 golang.org/x/text/unicode/norm
-# google.golang.org/protobuf v1.36.8
+# google.golang.org/protobuf v1.36.11
 ## explicit; go 1.23
 google.golang.org/protobuf/encoding/protodelim
 google.golang.org/protobuf/encoding/prototext
