@@ -106,7 +106,7 @@ github.com/prometheus/common/model
 github.com/prometheus/procfs
 github.com/prometheus/procfs/internal/fs
 github.com/prometheus/procfs/internal/util
-# github.com/weppos/publicsuffix-go v0.50.4-0.20260424101603-5ad6bdf70b02
+# github.com/weppos/publicsuffix-go v0.50.4-0.20260507075217-1bd47f85b3da
 ## explicit; go 1.24.0
 github.com/weppos/publicsuffix-go/publicsuffix
 # github.com/ziutek/mymysql v1.5.4
@@ -114,7 +114,7 @@ github.com/weppos/publicsuffix-go/publicsuffix
 github.com/ziutek/mymysql/godrv
 github.com/ziutek/mymysql/mysql
 github.com/ziutek/mymysql/native
-# github.com/zmap/zcrypto v0.0.0-20260426170728-e95752a6dfc1
+# github.com/zmap/zcrypto v0.0.0-20260514033604-a1159eb3cad9
 ## explicit; go 1.25.0
 github.com/zmap/zcrypto/cryptobyte
 github.com/zmap/zcrypto/cryptobyte/asn1
@@ -122,11 +122,12 @@ github.com/zmap/zcrypto/dsa
 github.com/zmap/zcrypto/encoding/asn1
 github.com/zmap/zcrypto/internal/randutil
 github.com/zmap/zcrypto/json
+github.com/zmap/zcrypto/rsa
 github.com/zmap/zcrypto/util
 github.com/zmap/zcrypto/x509
 github.com/zmap/zcrypto/x509/ct
 github.com/zmap/zcrypto/x509/pkix
-# github.com/zmap/zlint/v3 v3.7.0
+# github.com/zmap/zlint/v3 v3.7.1
 ## explicit; go 1.25.0
 github.com/zmap/zlint/v3
 github.com/zmap/zlint/v3/lint

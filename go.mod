@@ -14,8 +14,8 @@ require (
 	github.com/lib/pq v1.12.3
 	github.com/mattn/go-sqlite3 v1.14.44
 	github.com/prometheus/client_golang v1.23.2
-	github.com/zmap/zcrypto v0.0.0-20260426170728-e95752a6dfc1
-	github.com/zmap/zlint/v3 v3.7.0
+	github.com/zmap/zcrypto v0.0.0-20260514033604-a1159eb3cad9
+	github.com/zmap/zlint/v3 v3.7.1
 	golang.org/x/crypto v0.52.0
 )
 
@@ -30,7 +30,7 @@ require (
 	github.com/prometheus/client_model v0.6.2 // indirect
 	github.com/prometheus/common v0.66.1 // indirect
 	github.com/prometheus/procfs v0.16.1 // indirect
-	github.com/weppos/publicsuffix-go v0.50.4-0.20260424101603-5ad6bdf70b02 // indirect
+	github.com/weppos/publicsuffix-go v0.50.4-0.20260507075217-1bd47f85b3da // indirect
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
 	golang.org/x/net v0.54.0 // indirect
