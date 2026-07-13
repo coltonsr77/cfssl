@@ -12,7 +12,7 @@ require (
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/kisielk/sqlstruct v0.0.0-20201105191214-5f3e10d3ab46
 	github.com/lib/pq v1.12.3
-	github.com/mattn/go-sqlite3 v1.14.47
+	github.com/mattn/go-sqlite3 v1.14.48
 	github.com/prometheus/client_golang v1.23.2
 	github.com/zmap/zcrypto v0.0.0-20260514033604-a1159eb3cad9
 	github.com/zmap/zlint/v3 v3.7.1
