@@ -1,6 +1,6 @@
 module github.com/cloudflare/cfssl
 
-go 1.25.0
+go 1.26.0
 
 require (
 	bitbucket.org/liamstask/goose v0.0.0-20150115234039-8488cc47d90c
@@ -16,7 +16,7 @@ require (
 	github.com/prometheus/client_golang v1.24.1
 	github.com/zmap/zcrypto v0.0.0-20260514033604-a1159eb3cad9
 	github.com/zmap/zlint/v3 v3.7.1
-	golang.org/x/crypto v0.55.0
+	golang.org/x/crypto v0.56.0
 )
 
 require (
