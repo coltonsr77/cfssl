@@ -16,7 +16,7 @@ require (
 	github.com/prometheus/client_golang v1.24.1
 	github.com/zmap/zcrypto v0.0.0-20260514033604-a1159eb3cad9
 	github.com/zmap/zlint/v3 v3.7.1
-	golang.org/x/crypto v0.56.0
+	golang.org/x/crypto v0.57.0
 )
 
 require (
@@ -32,8 +32,8 @@ require (
 	github.com/prometheus/procfs v0.21.1 // indirect
 	github.com/weppos/publicsuffix-go v0.50.4-0.20260507075217-1bd47f85b3da // indirect
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	golang.org/x/net v0.57.0 // indirect
-	golang.org/x/sys v0.47.0 // indirect
-	golang.org/x/text v0.41.0 // indirect
+	golang.org/x/net v0.58.0 // indirect
+	golang.org/x/sys v0.48.0 // indirect
+	golang.org/x/text v0.42.0 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 )
