@@ -13,7 +13,7 @@ require (
 	github.com/kisielk/sqlstruct v0.0.0-20201105191214-5f3e10d3ab46
 	github.com/lib/pq v1.12.3
 	github.com/mattn/go-sqlite3 v1.14.52
-	github.com/prometheus/client_golang v1.24.1
+	github.com/prometheus/client_golang v1.25.0
 	github.com/zmap/zcrypto v0.0.0-20260906180147-3ed30b1e9340
 	github.com/zmap/zlint/v3 v3.7.2
 	golang.org/x/crypto v0.58.0
@@ -27,13 +27,13 @@ require (
 	github.com/kylelemons/go-gypsy v1.0.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
-	github.com/prometheus/client_model v0.6.2 // indirect
-	github.com/prometheus/common v0.70.1 // indirect
-	github.com/prometheus/procfs v0.21.1 // indirect
+	github.com/prometheus/client_model v0.6.3 // indirect
+	github.com/prometheus/common v0.72.0 // indirect
+	github.com/prometheus/procfs v0.22.0 // indirect
 	github.com/weppos/publicsuffix-go v0.50.4-0.20260821095816-b0fdb5c2d345 // indirect
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/net v0.60.0 // indirect
 	golang.org/x/sys v0.49.0 // indirect
 	golang.org/x/text v0.43.0 // indirect
-	google.golang.org/protobuf v1.36.11 // indirect
+	google.golang.org/protobuf v1.36.12 // indirect
 )
